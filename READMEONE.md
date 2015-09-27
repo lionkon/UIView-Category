@@ -3,7 +3,7 @@
 ###一个简单的UIView 分类， 可以让我们编码更加简单化： 
 
 ```objective-c
-比如平常写空间的frame时是这样：
+比如平常写控件的frame时是这样：
 
   UIButton *btn = [UIButton alloc]init];
   btn.frame.origin.x = 100;
